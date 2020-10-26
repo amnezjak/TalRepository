@@ -24,5 +24,7 @@ namespace TalRepository
         {
             InitializeComponent();
         }
+		
+		private void MainFunc() {}
     }
 }
