@@ -26,5 +26,7 @@ namespace TalRepository
         }
 
         private void Feature1() { }
+		
+		private void MainFunc() {}
     }
 }
